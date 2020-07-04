@@ -1,5 +1,5 @@
-import { Person } from "../practice2/Person";
-import { Student } from "../practice2/Student";
+import { Person } from "../practice2";
+import { Student } from "../practice2";
 
 const kevin = new Person('Kevin')
 const winnie = new Student('Winnie', 'class1')
